@@ -1,0 +1,17 @@
+{
+  "generated_utc": "2026-09-24T20:04:51Z",
+  "since_utc": "2026-09-16T20:04:51Z",
+  "games_checked": 436,
+  "new_announcements": 25,
+  "games_with_errors": 0,
+  "sheet": {
+    "rows_read": 436,
+    "unique_appids": 436,
+    "invalid_or_blank_rows": 0,
+    "header_detected": true,
+    "appid_column_index": 0,
+    "name_column_index": 1
+  },
+  "feed": "steam_community_announcements",
+  "errors": []
+}
