@@ -1,0 +1,64 @@
+name: Weekly Steam Monitor
+
+on:
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Optional manual lookback override in days (leave blank normally)"
+        required: false
+        type: string
+  schedule:
+    - cron: "0 8 * * 0"
+      timezone: "Europe/Bucharest"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-monitor
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Collect Steam announcements
+        env:
+          FORCE_LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '' }}
+        run: python steam_monitor.py
+
+      - name: Show run summary
+        if: always()
+        run: |
+          if [ -f output/latest_run.json ]; then
+            cat output/latest_run.json
+          fi
+
+      - name: Commit updated state and output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json data/game_names.json output/latest_announcements.json output/latest_announcements.md output/latest_run.json
+          if git diff --cached --quiet; then
+            echo "No repository changes to commit."
+          else
+            git commit -m "Update Steam monitor data"
+            git push
+          fi

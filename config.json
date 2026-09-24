@@ -1,0 +1,34 @@
+{
+  "sheet_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSc9l_vwQZxYR39HSApnjUabezkO3bMMMWPfNoFqlG4FyfMsB-7rG4C3zZewSGgHrjDN-ilrB-g3Wtz/pub?gid=0&single=true&output=csv",
+  "appid_column_index": 0,
+  "name_column_index": null,
+  "name_header_candidates": [
+    "game",
+    "game name",
+    "name",
+    "title",
+    "steam name"
+  ],
+  "first_run_lookback_days": 8,
+  "regular_lookback_days": 15,
+  "steam": {
+    "feed": "steam_community_announcements",
+    "page_size": 50,
+    "max_pages_per_game": 4,
+    "max_content_chars": 5000,
+    "max_workers": 6,
+    "timeout_seconds": 30,
+    "resolve_missing_names_via_store": true
+  },
+  "state": {
+    "processed_retention_days": 90,
+    "path": "data/state.json",
+    "name_cache_path": "data/game_names.json"
+  },
+  "output": {
+    "directory": "output",
+    "json_file": "latest_announcements.json",
+    "markdown_file": "latest_announcements.md",
+    "run_file": "latest_run.json"
+  }
+}
