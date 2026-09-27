@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-09-24T20:45:09Z",
-  "since_utc": "2026-09-22T20:45:09Z",
-  "games_checked": 436,
-  "new_announcements": 5,
+  "generated_utc": "2026-09-27T10:22:23Z",
+  "since_utc": "2026-09-12T10:22:23Z",
+  "games_checked": 438,
+  "new_announcements": 42,
   "games_with_errors": 0,
   "sheet": {
-    "rows_read": 436,
-    "unique_appids": 436,
-    "invalid_or_blank_rows": 0,
+    "rows_read": 439,
+    "unique_appids": 438,
+    "invalid_or_blank_rows": 1,
     "header_detected": true,
     "appid_column_index": 0,
     "name_column_index": 1
