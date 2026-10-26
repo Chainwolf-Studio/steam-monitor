@@ -1,983 +1,1129 @@
 # Steam announcements collected
 
-Generated: **2026-10-18T23:13:41Z**
-Collection window starts: **2026-10-03T23:13:41Z**
-Games checked: **456**
-New announcements: **32**
+Generated: **2026-10-26T00:23:54Z**
+Collection window starts: **2026-10-11T00:23:54Z**
+Games checked: **467**
+New announcements: **31**
 Games with request errors: **0**
 
 > This file is the raw weekly input for ChatGPT. It has not been AI-classified yet.
 > Items are collected from each game's Steam News RSS feed and restricted to Steam-hosted News Hub/community-announcement links.
 
-## 1. Rottenlands
-
-- **AppID:** 5174060
-- **Title:** Next Fest Patch Notes
-- **Published:** 2026-10-18T17:18:11Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5174060/view/684141995253302506
-- **GID:** 684141995253302506
-
-### Announcement text
-
-NEXT FEST PATCH NOTES: 18.10.2026
-NEW:
-- When receiving damage, a particle effect appears next to the wall from the lane from which you are getting hit.
-- Loading screens have fun facts and a cool animated loading title
-- A special finale now appears after completing the final level on each slot. Repeat clears use the usual completion screen.
--More music added, following you through both main menu and levels. It continues at a lower volume when paused.
-IMPROVED:
-- Normal Damage numbers pop or impact then fade while Critical hits stand out more
-- Added an animated border around the hovered cards during gameplay.
-- Volume slider offers a finer control at lower levels.
-- The deck builder card info panel is smaller and stays at its intended size.
-- In the tutorial, the unit now waits for you to choose a deployment goal before advancing.
-FIXED:
-- Selected outlines for towers and units no longer show through pause, settings and other full-screen panels.
-- Saved audio levels now take effect when the game starts, without having to move a slider.
-KNOWN ISSUES:
-Resolutions below 1920 x 1080 temporarily unavailable
-Resolution options below 1920 × 1080 are temporarily unavailable while we investigate a Fullscreen visual issue.
--------------------------------------------
-You can check out our live 
-blog
-on our site, which will be kept updated for the entire period of the Steam Next Fest!
-
----
-
-## 2. Potions Galore
-
-- **AppID:** 5079620
-- **Title:** Another way to play? Yes, please!
-- **Published:** 2026-10-18T16:50:05Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5079620/view/703282384630448492
-- **GID:** 703282384630448492
-
-### Announcement text
-
-Hello Apprentices!
-The alchemist is very pleased with the work of the apprentices that have sorted the shop up until now, and has decided to reward you!
-A second game mode will be available in the demo, right in time for Steam Next Fest!
-The alchemist has marked every page in the encyclopedia with the category, so you can lock in on the sorting alone, and enjoy an even cozier experience. (
-Is that even possible?
-) 
-Choose your playstyle
-Sort the alchemy shop in a relaxed, soothing pace in the Relaxed mode where every potion is discovered. Read about them at your own pace, for fun and giggles.
-Or take up the challenge and solve the puzzles using the book to deduce the correct placement in the Puzzle mode, while reading about the world
-We have been hard at work this week. 
-Here are a few changes we've made:
-Grouped up the shelves from the same category
-Updated all potions visuals
-Updated the Healing and Body category icons to be easier to identify at a glance.
-Added Category Token VFX and color change to differentiate the complete / incomplete state of a shelf.
-We are also joining Next Fest tomorrow, so make sure to try out the demo!
-Thank you,
-Playmunch Team
-
----
-
-## 3. MR MAGEBOY
-
-- **AppID:** 4483400
-- **Title:** Update 0.0.25
-- **Published:** 2026-10-18T15:24:56Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4483400/view/689771494788564317
-- **GID:** 689771494788564317
-
-### Announcement text
-
-Update 0.0.25
-- Fixed an issue with End Stage Screen not being centered on some resolutions.
-- Potential Fix for Hang/Crashes.
-- Added Launch Options / Vulkan / DirectX12 / OpenGL.
-- Fixed Movement Speed Skill Description.
-- Fixed an issue with Background Image in Main Menu when skipping intro.
-
----
-
-## 4. Giblings
+## 1. Giblings
 
 - **AppID:** 5025950
-- **Title:** v1.0.7 patch notes
-- **Published:** 2026-10-18T11:57:26Z
+- **Title:** v1.1.1 notes
+- **Published:** 2026-10-25T21:56:59Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5025950/view/677386595815392420
-- **GID:** 677386595815392420
+- **URL:** https://store.steampowered.com/news/app/5025950/view/685268529568553134
+- **GID:** 685268529568553134
 
 ### Announcement text
 
-Based on your feedback, we’ve updated the default controller layout to feel more natural and keep your thumbs on the sticks.
-- RB — Dig: Tap or hold RB to dig. You no longer need to coordinate both sticks.
-- LB — Jump without taking your thumb off the stick. The previous key ('A') still works. 
-- Right stick — Aim: A quick tap adjusts your aim by up to 7.5 degrees and keeps that angle when released. Hold the stick in a direction to aim continuously.
-- D-pad left/right — Change loadout: Previously used to cycle weapons.
-- D-pad up/down — Cycle rare weapons: Unchanged.
+- Added the ability to customise crosshair colours, shape and size. 
+- Enlarged weapon toolbars and selected weapon icons.
+- Added Grappling Hook / Jetpack selection for split screen
+- Minor updates to the tutorial
+- Added more performance logging -- one Radeon GPU user reported some performance issues, the logs will help diagnose this.
 
 ---
 
-## 5. Bleeding Nightmare | 血に染まる悪夢
+## 2. Exil Island
 
-- **AppID:** 3161250
-- **Title:** 🔴 LIVE NIGHTMARES
-- **Published:** 2026-10-18T10:50:44Z
+- **AppID:** 4131390
+- **Title:** The ocean finally learned how to wave
+- **Published:** 2026-10-25T19:51:23Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/3161250/view/699904683928453791
-- **GID:** 699904683928453791
+- **URL:** https://store.steampowered.com/news/app/4131390/view/717919626870134747
+- **GID:** 717919626870134747
 
 ### Announcement text
 
-🔴 WE'RE LIVE! Steam Next Fest!
-We're celebrating 
-Steam Next Fest
-with a special livestream of 
-Bleeding Nightmare!
-Step into a disturbing world of nightmares, dark secrets, and psychological horror. Watch the gameplay, experience the atmosphere, and discover what awaits you!
-🎮 
-The free demo is available now!
-Give it a try, and if you enjoy what you see, don't forget to wishlist the game!
-Thank you for your support, and enjoy the nightmares! 🖤
+Our old shoreline was a flat teal sheet with a dotted line around it. It did the job. It did not do it well.
+The new water fades from shallow turquoise into deep blue, and the foam rolls along the whole coast together instead of each tile doing its own thing. The sand even gets wet where the waves reach.
+Before or after: which one looks more like somewhere you'd wash up?
 
 ---
 
-## 6. MR MAGEBOY
+## 3. Tiny Fishing Villages
 
-- **AppID:** 4483400
-- **Title:** Update 0.0.24
-- **Published:** 2026-10-17T19:00:12Z
+- **AppID:** 5072380
+- **Title:** Tiny Fishing Villages Devlog #7 - Terrain overhaul, screenshots, trailer
+- **Published:** 2026-10-25T16:39:56Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4483400/view/689771494788564240
-- **GID:** 689771494788564240
+- **URL:** https://store.steampowered.com/news/app/5072380/view/689772129194874686
+- **GID:** 689772129194874686
 
 ### Announcement text
 
-Update 0.0.24
-Known Issues:
-There are issues with setting up resolution, workaround is to close game, restart and do it from main menu.
-Crash & hangs issues, still looking into it more, let me know if you find and reproduce them!
-- Improved the Sword Animation.
-- Improved the Sound Effect of Sword Animation.
-- Added Sound effects for Roll and Blink.
-- Replaced Projectile Casting Sound for Monsters.
-- Lowered Projectile Hit on ground sound.
-- Added Hit Sound effect to the Melee Attacks of Second Monster, and Third Monster.
-- Added Sound Effects to the Third Monster Spikes.
-- Fixed a HANG CRASH issue in the Forest due to Monsters mismatching issues(WIP).
+Hey everyone!
+Just a quick update to let you know what I've been working on recently.
+I've released a major update that significantly improves the terrain system for both the campaign and sandbox modes, laying the groundwork for future levels and content. I've also made improvements to trees and obstacles, making the environment clearer and more polished.
+New Buildings
+Warehouse
+A new Warehouse building has been added, allowing players to trade resources and grow their economy. I've also improved the marketplace UI, although I still need to fine-tune and balance prices, and trade values to ensure everything feels fair and rewarding.
+Shop House
+A new house type featuring a small shop on the ground floor has been introduced. While it accommodates fewer residents than standard housing, it provides a small but steady increase in gold income.
+Community Housing
+I've added new 2x2 community housing layouts. When players place four houses together in a square formation, they will receive a different outcome and gameplay bonus.
+Updated Screenshots & Trailers
+I've updated the Steam screenshots to showcase the latest visual improvements. I've also recorded two new gameplay trailers:
+A version with developer commentary
+A version without commentary
+This gives players the option to either hear more about the game and what I wish to achieve or simply enjoy the gameplay footage.
+What's Next?
+My focus now is on expanding the variety of available buildings and continuing to improve the user interface. Upcoming work includes:
+Continue to improve the UI
+Research and technology menus
+More buildings
+More upgrades for houses and industry.
+Thank you to everyone who has been following the development updates, supporting the project, and wishlisting the game. Your support genuinely helps motivate me to keep pushing the project forward.
+See you in the next update!
+Silviu
 
 ---
 
-## 7. Crypt Robbery
+## 4. Half Grip
 
-- **AppID:** 3362670
-- **Title:** Crypt Robbery Update: Optional Retro PSX Mode
-- **Published:** 2026-10-17T16:41:23Z
+- **AppID:** 4163270
+- **Title:** Patch version 0.418 (Beta)
+- **Published:** 2026-10-25T16:08:27Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/3362670/view/714541292743296225
-- **GID:** 714541292743296225
+- **URL:** https://store.steampowered.com/news/app/4163270/view/716793726963291933
+- **GID:** 716793726963291933
 
 ### Announcement text
 
-New Feature
-Optional Retro PSX Mode inspired by classic PlayStation-era horror games.
-Other Improvements
-UI improvements and refinements
-Text and readability updates
-Lighting enhancements across various areas
-General polish and fixes
-Retro PSX Mode can be enabled or disabled in the gameplay settings, allowing players to choose their preferred visual style.
-Thank you for playing Crypt Robbery!
+---general---
+New: 
+Speedrun mode
+(Settings > Game): Off / Run / Items / Achievements, with a timer, splits and best times.
+during speedruns: 
+seed box
+in loadout select menu (above wishlistbutton) - 
+seeds run generation
+, 
+shop offers, ai
+(should be deterministic but does depend on what you buy etc.).
+Speedrun mode turns off 
+cheats
+, 
+keyboard steering
+and 
+tutorials.
+With tutorials off, the starting tutorial and the intro are skipped too.
+
+Speedrun RUN mode
+: the 
+save is backed up
+as a run starts and reverted when run ends (so you can do speedruns with only a subset of items unlocked).
+Every route through a run now tries to have at least 4 different tracks (to avoid too easy runs).
+The 
+version number
+now follows the 
+changelog
+(this is 0.418).
+
+Speedrun timer
+ignores loading times (so it may be a bit lower than run timer).
+---fixes---
+Windowed mode no longer jumps up and down when the window was as tall as the screen
 
 ---
 
-## 8. Bloody Duke
+## 5. Cold Shelter
 
-- **AppID:** 4997610
-- **Title:** The Bloody Duke demo is out NOW!
-- **Published:** 2026-10-16T18:48:06Z
+- **AppID:** 5336500
+- **Title:** Cold Shelter will launch in seven languages
+- **Published:** 2026-10-24T12:20:21Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4997610/view/701030583835296220
-- **GID:** 701030583835296220
+- **URL:** https://store.steampowered.com/news/app/5336500/view/668380030964864869
+- **GID:** 668380030964864869
 
 ### Announcement text
 
-It's finally here! 
-The Bloody Duke demo is out now!
-It has been a very long journey but we've reached it's small finale. Obviously, we still have the full game to release but, until then, 
-enjoy the demo!
-Play the 
-demo
-here:
-https://store.steampowered.com/app/4997900/Bloody_Duke_Demo/
-Wishlist the 
-full game
-here:
-https://store.steampowered.com/app/4997610/Bloody_Duke/
+Hello everyone!
+I’ve added six more languages to Cold Shelter so more players can experience the story in their own language. At launch, the game will support:
+English
+Spanish
+Portuguese — Brazil
+German
+Simplified Chinese
+Russian
+Japanese
+Thank you to everyone who has wishlisted Cold Shelter and supported it so far!
 
 ---
 
-## 9. MR MAGEBOY
+## 6. Rad New World
 
-- **AppID:** 4483400
-- **Title:** Update 0.0.23
-- **Published:** 2026-10-16T13:14:05Z
+- **AppID:** 4957250
+- **Title:** v0.29
+- **Published:** 2026-10-24T03:46:11Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4483400/view/689771494788563940
-- **GID:** 689771494788563940
+- **URL:** https://store.steampowered.com/news/app/4957250/view/693149828915402467
+- **GID:** 693149828915402467
 
 ### Announcement text
 
-Update 0.0.23
-- Reworked progression of Harvest and Attack skills layout in Skill Tree.
-- Market Sell Speed can also be unlocked right after Portal.
-- Reduced the cost of Familiar Ranch Skill from 15k to 10k.
-- Increased the cost of Mana Restoration Amount skills.
+v0.2.9d — Black Well Update
+Map will also be added to the Extended Demo.
+What’s New
+Black Well
+has been updated with new content and improvements.
+New quests
+added.
+New Drifters
+introduced, each one with his own funny background.
+Extra Random Encounters
+— these now stay visible on the map after you discover them so you can return later.
+New unique Job (quest) Items.
+Stay Rad, friends.
+
+---
+
+## 7. Half Grip
+
+- **AppID:** 4163270
+- **Title:** Spinouts begone!
+- **Published:** 2026-10-23T18:45:53Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4163270/view/716793726963291704
+- **GID:** 716793726963291704
+
+### Announcement text
+
+10/23/2026
+
+---handling--- 
+Somewhat big change: aimed towards making spinouts easier to recover 
+Default steering wheel
+: up to 
+half as heavy
+and 
+twice as quick
+only when 
+sliding/drifting/spinning-out
+(feeling is completely unchanged in normal cornering)
+
+---fixes---
+
+Grab tolerance
+can now be set up to 2.5x
+The 
+horn's grab
+
+area is smaller
+, so it is harder to honk by accident
+10/22/2026
+---handling---
+
+Pneumatic servo
+reworked to make 
+catching slides easier
+: its wheel can be dragged twice as quick during a slide
+---general--
+- 
+Revolver
+: the cylinder can 
+no longer be grabbed by accident
+, instead you can right-click the barrel to spin it.
+Break action guns (including revolvers): opening them after you fire only throws out the spent casings. 
+Shop: 
+right-clicking a consumable
+on the shelf now buys and uses it Resetting after a shortcut puts you on the nearest bit of track like any other reset, instead of back before the shortcut
+
+---fixes---
+Factory: resetting from behind the containers no longer puts you further down the track
+10/20/2026
+---balance---
+
+Sawed-Off and Rubberjumper: tighter pellet spread and sound adjustments
+Pneumatic Servo: self-aligns more gently, so it fights your steering less in corners
+
+---fixes---
+
+Tokyo: resetting no longer puts you on top of a temple or a temple gate
+Jump ramps on winter will hopefully no longer make you get stuck at high speeds, jumping is smoother, and ramps are lower.
+Resetting no longer puts you back on a Winter Mountain ramp, or with the car half on a ramp, temple or arch
+Resetting in a pile-up no longer drops you inside or on top of another car
+Enemies are more patient and more avoidant of pit-maneuvering you in normal difficulty
+Resetting, or lying on your roof, no longer counts as airtime
+Landing from a jump or a reset no longer counts as Drifting
+Falling through the map now puts you back on the track by itself
+The "Hold R to reset" hint also shows when if get flung off away from the map
+Looking over your shoulder (1 or 3) no longer loses your mouse
+Fixed possible crash at launch with force feedback wheels of different manufacturers
+
+---more fixes---
+
+Tutorial: steering with a controller or the keyboard no longer breaks tutorial
+Tutorial: a shotgun shell dropped off the edge of the screen now flies back to its rack
+A save file held open by antivirus or cloud sync at launch is no longer replaced by an empty one
+Leaderboard: letters the font cannot draw in a Steam name now show as _ instead of glitching
+Winter Mountain: jump ramp spinning is fixed
+
+---
+
+## 8. Vecter
+
+- **AppID:** 1175140
+- **Title:** Update 1.5.2.1 – FPS cap and Linux fixes
+- **Published:** 2026-10-23T14:00:48Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/1175140/view/689772129194874453
+- **GID:** 689772129194874453
+
+### Announcement text
+
+⦁ Fixed: the FPS cap now sticks after restarting, alt-tabbing or changing resolution (VSync Off).
+⦁ Fixed (Linux): the in-game browser no longer stalls on KDE or logs an error on quit.
+⦁ Fixed (Linux): settings no longer go missing when using -screen launch options.
+Thanks to Pepe for the reports. Fly safe!
+
+---
+
+## 9. Splitcard
+
+- **AppID:** 4768720
+- **Title:** Demo Update - Target select, controller support, game polish
+- **Published:** 2026-10-23T09:25:49Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4768720/view/683016729753818669
+- **GID:** 683016729753818669
+
+### Announcement text
+
+Demo Update 3 is live! 🔥
+Thanks to everyone who played the demo and shared feedback. This update is all about giving you more control and making every fight feel better.
+🎯 Select Enemy Target
+You can now choose which enemy your attacks hit. Take out the dangerous ones first!
+🎮 Controller Support
+Splitcard can now be played with a controller.
+✨ Starting Relic Revamp
+The starting relics have been reworked and tailored to fire elemental theme.
+🏹 Skeleton Archer Arrows
+Skeleton Archers now fire real projectile arrows at you.
+📦 Cooler Mimic Effects
+The Mimic got new effects. It looks as sneaky as it plays.
+💥 Player Feedback
+Hits, blocks and effects are easier to read, so you always know what just happened.
+🖥️ UI Polish
+The UI is clearer and smoother across the whole game.
+🐛 Bug Fixes
+Lots of bugs squashed.
+Splitcard releases on 30 July 2027. If you enjoy the demo, wishlisting it helps a lot! ⚔️
 
 ---
 
 ## 10. Giblings
 
 - **AppID:** 5025950
-- **Title:** Giblings is officially live! 🎉
-- **Published:** 2026-10-16T06:09:04Z
+- **Title:** v1.1.0
+- **Published:** 2026-10-22T21:28:17Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5025950/view/677386595815392067
-- **GID:** 677386595815392067
+- **URL:** https://store.steampowered.com/news/app/5025950/view/685268529568551855
+- **GID:** 685268529568551855
 
 ### Announcement text
 
-...aaaand we're LIVE! Whew! It has been an intense six months of development, but Giblings is finally out, and I really hope you all enjoy it. I've always felt there's been a Liero-shaped hole in our lives for the past 20 years, and I hope Giblings can help fill it. :) 
-When I first started, all I wanted to do was make something inspired by Liero. But as development went on, the game grew into something much bigger than I'd originally planned. Alongside the classic deathmatch gameplay, there's now Battle Royale, co-op Zombie Horde, controller support, and local split-screen multiplayer for those who'd rather play together on the couch.
-One thing I only realised yesterday, after talking to some co-op players, is that there's also demand for full-screen local multiplayer with more than two players. So that's something I'm planning to add in one of the next updates! Along with more maps! And more weapons! 
-A huge thank you to all my beta testers for helping me polish the game over the last few months, all the tips and game ideas they shared, and to everyone who helped with the localisations. I really couldn't have gotten this far without you.
-And a special thank you to my beautiful wife, who's been incredibly supportive throughout all of this and has been so understanding about the countless hours of our spare time I've spent working on the game. I know it's taken up a lot of our time together, and I really appreciate her patience and support. ❤️
-I hope you have as much fun playing Giblings as I've had making it. And please keep the feedback coming. There's still plenty I'd love to add and improve!
+The headline change is that we now have native 
+Linux
+support! 
+Bugfix - one player reported a severe dip in FPS during terrain destruction / dust clouds. I was unable to reproduce this issue, but the likely cause is that the dust particles would not render with GPU effects and would then default to CPU. I added some changes to deal with this - 
+Remove the CPU fallback, so machines that can't render the dust particles with GPU will just not see dust clouds at all. Does not effect gameplay, just the look. 
+Added an option to turn off dust cloud particles by default
+I also added in some performance specific logging for this particular change, so if it happens again players can email me those logs and I can properly fix it. Please do keep those issues coming, folks!
+Sadly, I will not be able to do daily releases now, and have to move to a more weekly schedule. I had taken a week off my day job so I could respond quickly to reported issues, but today I am back to work. 
+Please keep those issues coming in though, either by email or in the Steam community or Reddit. They will all be seen and fixed.
 
 ---
 
-## 11. Eternium
+## 11. Vecter
 
-- **AppID:** 981600
-- **Title:** Season of the Apex Conqueror
-- **Published:** 2026-10-16T03:33:00Z
+- **AppID:** 1175140
+- **Title:** Vecter 1.5.2 - The "Stop Snooping, Unity" Update
+- **Published:** 2026-10-22T18:44:30Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/981600/view/746066581090468234
-- **GID:** 746066581090468234
+- **URL:** https://store.steampowered.com/news/app/1175140/view/689772129194873632
+- **GID:** 689772129194873632
 
 ### Announcement text
 
-The Season of the Apex Conqueror has Started!
- 
-The Elder Forge produces a new stone: Tyrannite
- 
-Forged for those who hunt the realm's mightiest foes, this fearsome Spiritstone sharpens your strikes against Bosses & Elites while hardening you against their deadliest blows.
-Radiant: Increases damage vs Bosses & Elites by 5%, reducing damage taken from them by 2%
-Trillion: Increases damage vs Bosses & Elites by 10%, reducing damage taken from them by 3.5%
-Brilliant: Increases damage vs Bosses & Elites by 15%, reducing damage taken from them by 5%
-The energies of the world have shifted once more. Relicite has rotated out, and Tyrannite joins two returning powers:
-Thunderite
-increases Nature damage dealt by up to 20%
-Bulwarkite
-increases Armor by up to 20%, at the cost of up to 6% Movement Speed
-The Final Stand of Thunderite This is the last season for Thunderite before it rotates out. Channel its storm-charged Nature damage while you still can! Will you strike with the fury of the storm, and stand unbreakable as stone, as you hunt down the strongest prey? Combine the power of the stones to claim your place atop the leaderboards as the Apex Conqueror!
-Crowned for Conquest: New Cosmetics!
-
-The Forge runs hot once more! The Azure Wardplate and Primeval Cinderplate sets continue this season with the Hood and Mantle, so you can complete your look from head to shoulders:
-Azure Wardplate Set
-: Clad yourself in the cool, glowing hues of the storm. Earn the Hood (tier 20) and Mantle (tier 62) entirely on the Free Season Pass track just by playing!
-Primeval Cinderplate Set
-: Embody the molten fury of the world's core. Unlock the scorched Hood (tier 3) and Mantle (tier 40) exclusively on the Premium Season Pass track.
-If you dare face the realm's twisted dark magic, conquer high corruption levels in the Gone Rogue event to claim the sinister 
-Corrupt Specter's Mantle
-, the perfect match for last season's Corrupt Specter's Hood!
+Wait, another update? Didn't you just do one of those?
+Yes. Keep up. This one comes in three parts: a privacy fix, a new button and a little secret. In that order, because I'm a responsible adult. Mostly.
+Part 1: Vecter stops talking to Unity
+A player on the forums (thanks Pepe!) noticed that Vecter creates Unity Analytics files on your computer when it starts. And they were right. Unity switches a bunch of its online services on by default, and they'd been sitting quietly inside Vecter for years. I never used any of them and no part of the game needs them. So they're gone:
+Unity Analytics: off
+Unity's cloud crash reports: off
+Hardware stats sent to Unity: off
+Unity's in-app purchase module (the "shop" bit): off. There was never anything to buy through it anyway. The game is free. It's been free since 2019. It's staying free. You know the drill.
+I also added a check to how I build the game. If Unity ever switches any of this back on by itself (apparently it can... thanks Unity), the build stops and nothing reaches Steam.
+Want to clean up the old files? Close Vecter and delete the folder called 
+Unity
+in here:
+Windows: %USERPROFILE%\\AppData\\LocalLow\\Taranasus\\Vecter\\
+Mac: ~/Library/Application Support/Taranasus/Vecter/
+Linux / Steam Deck: ~/.config/unity3d/Taranasus/Vecter/
+ONLY the Unity folder. Do NOT delete the whole Vecter folder: your save lives in there. If you nuke your save, that one's on you.
+After this update the Unity folder shouldn't come back.
+Part 2: There's a new box on the main menu
+You might notice a little window in the top right corner of the main menu. It blinks. It says NEW. It says THE SEQUEL. Very subtle, I know.
+Press WISHLIST ON STEAM and it opens the Steam page of my next game right in the Steam overlay, so you never leave Vecter. Overlay switched off? It opens Steam's store instead. No Steam at all? Your web browser. It works with mouse, keyboard and controller.
+And no, the button doesn't count clicks or send anything anywhere. See Part 1. I'd be a right hypocrite otherwise.
+The VECTER logo had to scoot over a bit to make room. Sorry, logo.
+Part 3: So... about that sequel
+Back in 2022 I told you I was starting a sequel to Vecter. Then it went very quiet.
+It's not dead. It changed. A lot.
+It's called Super Vecter Elite Turbo. Yes, really. I stand by it.
+That's about all I'm telling you for now. Except this: the road in Vecter went through a neon void and never really went anywhere. This one goes somewhere. Somewhere real.
+It's still being made, by me, in my spare time, as is tradition. There's no release date and I'm not going to pretend there is one. When there's more to show, you'll hear it here first.
+The bit where I ask for something
+If Vecter has given you a fun minute or a few hundred hours over the years, the best thing you can do for me right now is go to the new game's page and hit Wishlist (and Follow, while you're there). It's free, it takes two seconds, and for a small game like mine wishlists make a real difference to how many people Steam shows it to. There's no marketing department here. It's you. Congratulations, you're the marketing department.
+https://store.steampowered.com/app/2028270/
+Go! Away with you! Go click the button!
+Pace!
 
 ---
 
-## 12. Oath of the Necromancer
+## 12. PeeVPee
 
-- **AppID:** 2930030
-- **Title:** New Update - v0.5.1.8.9
-- **Published:** 2026-10-15T17:13:50Z
+- **AppID:** 5086460
+- **Title:** Big Demo Update: Toilet Wars, Global Leaderboard, Bug Fixes & More! 🚽
+- **Published:** 2026-10-22T15:24:11Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/2930030/view/715667192644895504
-- **GID:** 715667192644895504
+- **URL:** https://store.steampowered.com/news/app/5086460/view/674009530499076731
+- **GID:** 674009530499076731
 
 ### Announcement text
 
-Rejoice all Necromancers! All content & changes from the Beta branch over the last few months are now live. Game balance, new relics, more enemies, and visual updates - all now available on the 
-Demo
-page.
-Thank you all for the continued support & feedback you've given us over this time. We're listening to every one of you to make the best game possible. If you've got something to share with us, we're always checking the forums and our 
-community Discord
-, so feel free to reach out <3
-Content & Balance
-So, as Serapis willed it, you can find new relics, new enemies, and a bunch of bugfixes. Dive in, try them all, and tell us which ones you love most. The patch notes can be found on our Discord.
-TL;DR we added: 
-10 new Relics 
-5 new enemies 
-Updated 50% summons & their upgrades 
-Rebalanced upgrades & relics
-Visual Updates
-Many Quality-of-Life improvements 
-With the new balance, we've made the game a little harder. Let's see how you all will fare in the face of the Shamans newfound wrath!
-We have more cooking and we'll gradually roll out patches over on the Beta branch again, so keep an eye out for those if you're interested!
-Events & Exhibits
-In the last months we have been working on getting more visibility for the game by joining offline and online events. If you are around, we will be showcasing next in DevGamm Lisbon and GIC Prague, so come say hi!
-Otherwise, you will be able to see us at future Steam events such as “Games Without AI” games and “Romanian Steam Sale 2026”. We had a great time showcasing in Serbia last month and got amazing feedback that motivated this update.
-Thank you again for the continued support, and until next time!
+Hey everyone!
+I've just released a pretty big update for the PeeVPee demo, bringing a brand-new gamemode, a new map, a global leaderboard, and a bunch of fixes and improvements!
+I've also been going through your feedback and trying to fix as many issues as possible. Here's everything that's changed!
+🚽 NEW GAMEMODE: Toilet Wars!
+A brand-new team-based gamemode is here, along with a new construction-themed map!
+Each team has its own base and toilet. Your goal is simple: 
+get into the enemy base and pee in their toilet while protecting yours!
+The team that fills the enemy toilet first wins!
+🏆 Global Leaderboard
+Think you're the biggest pisser of them all? Now you can prove it!
+I've added a global leaderboard where you can compete against other players.
+Win at least one match to qualify for the leaderboard.
+Every match you win earns you 
+1 point
+, regardless of the gamemode.
+Climb the rankings and try to reach the top 10!
+🎯 New Challenges & Improvements
+Along with Toilet Wars, I've made a bunch of other changes:
+Added new challenges related to Toilet Wars.
+Added descriptions for all gamemodes, including information about the prize pool.
+Added an 
+Unstuck
+button in the main menu in case you get stuck somewhere.
+Increased power-up durations.
+Fixed most of the bugs and issues reported by players.
+Made a lot of performance optimizations to help the game run smoother.
+⚠️ Having Trouble Joining Sessions?
+Since the demo has received several updates, some players might still be hosting sessions on older versions of the game.
+If your game version doesn't match the host's version, you won't be able to join their session.
+If you're having connection issues:
+Make sure your game is updated to the latest version.
+Completely close and reopen Steam to check for updates.
+Make sure your friends are also running the latest version.
+💛 Thank You!
+If you've already tried the demo, I'd really appreciate it if you gave it another shot!
+The new Toilet Wars mode is a lot of fun, especially with friends, and I'd love to hear what you think about it.
+I'm developing this game on my own, so every bug report, suggestion, and bit of feedback genuinely helps me improve it.
+There's still plenty more to come!
+Thank you all for playing and supporting PeeVPee! 💛
 
 ---
 
-## 13. Bleeding Nightmare | 血に染まる悪夢
+## 13. Chip Builder
 
-- **AppID:** 3161250
-- **Title:** COFFINS - why?
-- **Published:** 2026-10-15T10:42:26Z
+- **AppID:** 5095670
+- **Title:** Update Notes for 22nd of October
+- **Published:** 2026-10-22T09:20:42Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/3161250/view/699904683928453316
-- **GID:** 699904683928453316
+- **URL:** https://store.steampowered.com/news/app/5095670/view/705534727891718456
+- **GID:** 705534727891718456
 
 ### Announcement text
 
-WHY COFFINS???
-🟡 
-As promised in the last update, I want to explain 
-why opening a coffin is something you do in all my games
-and the story behind, along with a few new screenshots from a scene I’m currently working on.
-🟡 
-This might sound like a story from Mr. Ballen, but here it is.
-I have a friend — or rather, someone close to me — a family man and seemingly a good Christian, who always felt uneasy about my games and my dark/edgy personality. Not disgust, but discomfort with dark themes, borderline blasphemy, death, and violence. I used to tease him with morbid jokes until one day he opened up and told me something genuinely disturbing.
-He once attended the wake of his best friend’s father. The body wasn’t displayed in a small chapel, but in a large building in the middle of the cemetery. Because it’s old and busy, 
-multiple funerals happen daily
-, meaning 
-multiple bodies are displayed in the same room
-. The coffins are propped at an angle in what looks like a cooling structure, lit by spotlights. Families — often more than one at a time — walk in, look up at their loved ones, and mourn together. I’ve seen that room once in my life, and I can’t forget it.
-
-That night, my friend stayed over with the deceased’s son, partly so he wouldn’t be alone. At some point, out of boredom or morbid curiosity, they began looking at the other bodies displayed nearby. Among all those coffins, there was one different from the rest: 
-a small, child-sized coffin
-, and unlike the others, it was closed. I still don’t know what got into my “good Christian” friend, but he and his friend became fixated on it and tried to pry it open. He told me how excited and pumped he felt, almost like there was an unholly spirit around them, completely forgetting where he was.
-
-Then, mid-story, he stopped talking. I tried to get the rest out of him — whether they opened it or not — but he never said another word. In a disturbing way, the trance he told that story transferred to me. I felt the same curiosity, the same urge to know what was inside. To this day, I don’t know how the story ended. Maybe one day he’ll tell me the rest.
-What surprised me most was the irony: a man who once tried to open a coffin later telling me that what I do “isn’t something a good Christian would do.” That story left a deep impression on me, and out of morbid curiosity, I’ve put 
-coffins you must open
-in all my games — and there’s always a surprise inside.
-
-Enjoy the new screenshots, and stay close for more progress. 
-
-🟡 Join my Discord so we can build a nice community:
-👉 
-Join my DISCORD server!
+TITLE
+Chip Builder update: 2D board view
+SUMMARY
+Switch any breadboard level to a flat 2D board, watch current flow through your circuit, and click a chip to see what every pin does.
+BODY 
+New: 2D board view
+Switch any breadboard level between 3D and a flat 2D board. Use the 2D VIEW button, press V, or pick your favourite under BOARD VIEW on the main menu.
+Wires route themselves in clean right angles, and your circuit stays exactly as you left it when you switch views.
+Click an input and watch the change travel gate by gate to the outputs. Wires carrying a 1 glow with moving pulses.
+Everything works in 2D: placing, wiring, moving parts, selecting several with Shift + drag, SHOW SOLUTION and RUN TESTS.
+New: pin guide
+Click a chip with four or more pins to see every pin's name, whether it is an input or an output, and its live value. On a crowded board the view zooms in on the chip, and it glides back when you close the guide.
+A better 3D board
+Clicking an input now drives the whole circuit, so you can try your design by hand before you hit RUN TESTS. Before, a click lit the pad but went no further.
+Pins and pads show their real value: green for 1, grey for 0.
+Pin names sit on each chip's lid and stay readable. Point at a chip to bring its names forward; small names appear as you zoom in.
+Connectors on the far side of tall chips are no longer hidden.
+A see-through preview shows where a new part will land.
+SHOW SOLUTION and RESET VIEW now frame the whole circuit.
+Fixes
+Parts can no longer be placed or dragged off the breadboard and SHOW SOLUTION no longer leaves parts hanging past the board's edge.
+The "board is full" message now shows in full.
+The test count was removed. The results panel still tells you how many cases are waiting.
 
 ---
 
-## 14. Verse Surf
+## 14. Breachway
 
-- **AppID:** 1315390
-- **Title:** Your phone naps, the game doesn’t
-- **Published:** 2026-10-15T06:24:25Z
+- **AppID:** 2118810
+- **Title:** Experimental Branch: Sector 1 Enemy Redesign
+- **Published:** 2026-10-22T07:59:30Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/1315390/view/742688880388472850
-- **GID:** 742688880388472850
+- **URL:** https://store.steampowered.com/news/app/2118810/view/692023929008558056
+- **GID:** 692023929008558056
 
 ### Announcement text
 
-Phones love to sleep. Screen goes dark, connection drops, and you miss the round. Not anymore.
-This build reconnects on its own after your screen turns off. So go ahead and lock your phone between rounds. When the timer starts and you need to type like your fingers are on fire, you’ll be right back in.
-Still, if anything looks weird: refresh the page. It fixes almost everything.
-Lyrics on your phone
-The big screen lyrics now show up on your phone too. Full context, right in your hand. Craft the perfect bluff without craning your neck at the TV.
-Giveaways are coming
-We’re cooking up some giveaways. Come get a sneak peek on our 
+Hey everyone,
+The first big piece of the enemy redesign we talked about in our last dev update is ready for testing: 
+every enemy in Sector 1 has been rebuilt
+, from the first fights of a run through the elites and all four bosses. It's on the experimental branch now, and we need your help finding out how it plays before it goes to the main branch.
+As usual, switching to the experimental branch means losing your current run.
+What's changed
+
+New starter enemies.
+Your first three fights now each teach one mechanic, through 8 new enemies (two per faction): Solarii teach Shred/Brittle and a cannon whose charge you can wipe by destroying it; Starkin teach Ongoing effects and Blind; Deadweights teach missiles and Suppression; Freeroamers teach Ignite and Ion.
+
+Redesigned regulars.
+All 16 Sector 1 regulars now build on their faction's starter lessons, and each one has a single twist that changes how you'd normally play the fight.
+
+Aux equipment arrives.
+Several enemies now carry levers: small pieces of equipment that give you an edge while they're destroyed or disabled. Take out Sensors and the enemy is Blinded each turn; take out an Engine and it takes +1 damage from every hit.
+The new elites
+
+Solarii:
+a gun platform with a Fire Control system that charges one of its guns for an Empowered (+50%) shot every couple of turns.
+
+Starkin:
+a chain laser that spins up, firing faster each turn until you destroy it. Destroying it resets the spin.
+
+Deadweight:
+a Field Emitter whose Dampening Field steadily weakens your Shield cards, backed by torpedoes hiding behind escort missiles.
+
+Freeroamer:
+a beam that grows stronger with every shot, sealed behind a Deflector. It only opens up the turn before it fires, or you can take the Deflector down first.
+The new bosses
+
+Solarii:
+fires in a steady fire, fire, pause rhythm. Its Engineering Bay builds extra damage on every hit as long as you leave the ship undamaged, and repairs its most damaged equipment each turn.
+
+Starkin:
+a Dampening Field, a heavy lance and a Targeting Array that ramps its damage the longer it's alive.
+
+Deadweight:
+no shields, but a Suppression Field that punishes every attack you play, heavy torpedoes, and Fire Control charging its beam.
+
+Freeroamer:
+a beam that fires every turn, Ion attacks that refill its shields, and a Repair Bay that brings destroyed equipment back faster. Its Radiator is your lever.
+What to watch for
+Sector 1 is meant to hit harder and fight shorter now: enemy damage is up, and every fight should have a turn you can see coming and a part worth taking out first. We know the higher damage may mean ships need more starting hull, and that's one of the things we're watching.
+This is a purely functional build meant for balancing, there are a lot of placeholders (card art, equipment, etc)
+Feedback we need
+Do enemies feel different from one another, do they change the way you play in any way?
+Are there any unusually difficult/easy/unfair/frustrating enemy fights?
+How does going through sector 1 as a whole feel now?
+Post your thoughts on Discord, as a comment on this post, or in the Steam discussions, and if you encounter any bugs, a screenshot or your save file helps a lot. 
+Thanks for testing! 
+o7
+The Breachway Team
+
+---
+
+## 15. Giblings
+
+- **AppID:** 5025950
+- **Title:** v1.0.9 release notes
+- **Published:** 2026-10-21T13:56:50Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/5025950/view/685268529568549595
+- **GID:** 685268529568549595
+
+### Announcement text
+
+•⁠ ⁠Added Greek language support.
+•⁠ ⁠Improved performance during heavy terrain destruction.
+•⁠ ⁠Improved menu and HUD layout for longer text.
+
+---
+
+## 16. Night Cart: The Immortal Plague
+
+- **AppID:** 4769780
+- **Title:** Accessibility Options and Bug Fixes
+- **Published:** 2026-10-21T11:30:36Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4769780/view/683016729753813832
+- **GID:** 683016729753813832
+
+### Announcement text
+
+Hey everyone!
+Update 0.5.19 adds adjustable colourblind options and fixes disappearing Feather menu text and weapon-handling problems when storing or selling items.
+I've also included the 0.5.17 changes below: a dedicated map menu, clearer navigation markers and starting equipment that's ready to use.
+New in 0.5.19 — Colourblind Accessibility
+Added Protanopia, Deuteranopia and Tritanopia modes for the world and key HUD/UI colours.
+Added a 0–100% strength slider with live preview and labelled Health, Healing, Focus and Reload colour samples.
+Find the new Accessibility controls at the bottom of Options → Display. Preview your changes, then apply them to save your settings.
+
+New in 0.5.19 — Inventory Fixes
+Fixed text disappearing when reopening the Feather attribute-selection menu.
+Fixed weapons being lost or incorrectly re-equipped when storing or selling multiple items. Replacement equipment is now selected after the transfer finishes.
+From 0.5.17 — New Map Menu
+Moved the world map to a dedicated menu screen. Open it from the pause menu, directly below Inventory, or use M / the controller View/Select button by default.
+Retired the physical map item from inventories, world pickups and merchant stock. You no longer need to find, buy or equip a map.
+Pan the map by dragging with the mouse, using WASD or the arrow keys, or using controller thumbsticks or the D-pad.
+Zoom with the mouse wheel, the +/- keys, controller shoulder buttons or the on-screen controls.
+Added a Center on You shortcut: Space on keyboard or clicking the right stick on controller.
+Added a clearer player arrow showing your position and heading, both on foot and while riding.
+Added a distinct horse marker when you are dismounted and more than 100 metres from your parked horse.
+From 0.5.17 — New Game & Quick Access
+New games now start with the Caliver equipped and ready when the opening sequence finishes.
+The starting firearm, melee weapon and health potion are automatically added to favourites and assigned to quick-access slots 1, 2 and 3.
+From 0.5.17 — Fixes
+Fixed held items appearing during the opening cinematic or main-menu presentation.
+Combat tutorial popups now wait for gameplay instead of interrupting loading, the opening sequence or menus.
+Older saves now discard retired map items without accidentally equipping a different item from the map's former inventory slot.
+Thanks for playing! If you try the colourblind options, let me know how the mode and strength settings work for you.
+
+---
+
+## 17. Quantum Odyssey
+
+- **AppID:** 2802710
+- **Title:** Final patch pre-release is live!
+- **Published:** 2026-10-21T01:18:30Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/2802710/view/693149828915396755
+- **GID:** 693149828915396755
+
+### Announcement text
+
+This major update brings clearer learning material, reworked scoring and puzzle results, expanded tooltips, and fixes across the Quantum Fracture, community challenges, and offline play. More importantly, game progression has been reset for all users and we successfully moved to a new server. All the known problems have been fixed.
+If you’ve spent time with Quantum Odyssey, please consider leaving an honest Steam review.
+We check for new reviews every day. Hearing that you’re enjoying the game means a lot to us, and your feedback helps us see what we’re getting right and what still needs work.
+Learning material
+Reworked module descriptions throughout the game, with clearer wording, more concise explanations, and consistent descriptions for fundamental gates.
+Improved explanations of Boolean logic, including AND, OR, NAND, and XOR.
+Revised the Half Adder and Full Adder content.
+Refined explanations of basis transformations and phase kickback.
+Improved the Missing Sage’s two-qubit destruction content.
+Expanded SX-gate documentation with an encyclopedia entry, a Bloch-sphere illustration, an improved short description, and a dedicated tooltip.
+Improved the T-gate description and corrected the Z-gate encyclopedia entry.
+Reorganised encyclopedia entries into the appropriate categories and fixed links opening the wrong entry.
+Added a new letter for “Your Computer Runs Quantum”, along with additional quotes and revisions to existing text.
+Scoring and puzzle results
+Redesigned the puzzle-results panel, including score brackets and solution-graph tooltips.
+Updated puzzle world-record tracking and presentation, with more consistent record and rank displays.
+Refreshed the leaderboard layout and rank graphics.
+Corrected the displayed percentage of solutions beaten.
+Updated scoring weights and the global puzzle experience multiplier.
+Fixed experience calculations and several issues with Brilliant Solution detection and experience awards.
+Fixed cases where improving an existing solution incorrectly awarded zero Knowledge.
+Corrected score recording, including an issue where score data could be overwritten.
+Improved Cosmic Essence displays and revised their descriptions to match the reward logic.
+Corrected misleading Knowledge-bonus information in the puzzle reward panel.
+Vault-breach results now correctly display achievement and Brilliant Solution experience bonuses.
+Added a completed-challenge popup, corrected challenge-bracket calculations, and improved results panels for session puzzles.
+Tooltips
+Added a tensor-product preview tooltip.
+Expanded gate tooltips and explanations of important terms.
+Improved the readability, scaling, and placement of mathematics, module, encyclopedia, and button tooltips.
+Mathematics tooltip panels can now be dragged and closed with a button.
+Improved mathematics-tooltip updates and highlighting of the associated circuit row.
+Fixed broken cached mathematics tooltips and unwanted closing when the game’s focus changes.
+Made gate-tooltip positioning more consistent and improved how tooltips respond to the tooltip setting.
+Puzzle-selection buttons now provide more detailed information about each puzzle.
+Quantum Fracture and puzzle navigation
+Reworked module appearances and visual states, with improved visibility and hover feedback.
+Added depth to module placement and reduced the brightness of links between stars.
+Rearranged early challenges.
+Improved module-access panel layouts and resizing, making descriptions and puzzle information easier to read.
+Fixed modules briefly appearing completed when they were not.
+Corrected solved and unsolved indicators, along with puzzle-navigation buttons showing the wrong state.
+Fixed issues with module unlocking.
+Fixed the tutorial-challenge choice popup when all puzzles have been completed.
+Puzzle navigation now correctly identifies the currently open puzzle, and the circuit view returns to the top when a puzzle loads.
+Fixed visual glitches when switching to the Quantum Fracture.
+Settings, sound, and dialogue
+Reorganised settings into separate tabs.
+Added a dedicated speech-volume control.
+Added more typewriter-speed options and improved text-reveal performance.
+Improved typewriter sound effects and their timing.
+Letter auto-scrolling now stops when you interact with the interface.
+Improved letter scrolling and fixed Sage-letter display issues.
+Added a sound effect when deleting a gate.
+Added persistence for toggle-button preferences and improved player-settings migration.
+Improved puzzle-completion quotes and fixed quote and author-text display issues.
+Offline play and online reliability
+Custom gates now load while playing offline.
+Collectibles synchronise when the connection is restored.
+Pending uploads are retried after temporary server errors.
+Local cached data is now kept separately for each Steam account.
+Improved handling of missing or corrupted cache files and fixed cache-synchronisation issues.
+Fixed Steam authentication timeout handling and authenti
+
+[Content truncated by collector]
+
+---
+
+## 18. Half Grip
+
+- **AppID:** 4163270
+- **Title:** Demo small update: tweaks & fixes
+- **Published:** 2026-10-20T15:43:47Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4163270/view/674008896091720878
+- **GID:** 674008896091720878
+
+### Announcement text
+
+A new demo update is live!
+General
+New main rival: Iowa.
+There's also now a chance some main rivals (e.g. Nirdox) won't spawn in a race, for more variety
+New "Match cursor sensitivity" button
+beside hand sensitivity: sets your hand sensitivity to match your desktop cursor
+Soundtracks: 
+Adjusted EQ on some music tracks (Stadium and Factory) to sound more lively
+Balance
+Sawed-Off and Rubberjumper:
+tighter pellet spread and sound adjustments
+Pneumatic Servo:
+self-aligns more gently, so it fights your steering less in corners
+Nirdox:
+now deals 50% less damage with his weapon (a bug was making it deal double)
+Enemies
+on Normal difficulty are more patient and less likely to 
+pit-maneuver
+you
+Fixes
+Tokyo
+resetting no longer puts you on top of a temple or temple gate
+Winter
+jump ramps are smoother, so you should no longer get stuck on them
+Resetting
+no longer puts you on top of another car
+Falling through the map now automatically puts you back on the track
+The "Hold R to reset" hint now also shows if you get flung off the map
+Resetting or lying on your roof no longer counts as airtime
+Landing from a jump or reset no longer counts as drifting
+Assassination objectives can now name more enemies
+Tutorial:
+shooting the rival in a tire no longer gets the tutorial stuck
+Hand sensitivity on the Controls page saves again without opening the Game tab first
+Settings sliders no longer change after closing settings
+Looking over your shoulder (1 or 3) no longer loses your mouse
+Fixed a possible crash at launch with force feedback wheels from various manufacturers 
+Thanks for playing and for all the feedback. Keep it coming in the discussions or on our 
 Discord
-.
+!
 
 ---
 
-## 15. MR MAGEBOY
-
-- **AppID:** 4483400
-- **Title:** Update 0.0.22
-- **Published:** 2026-10-14T18:36:22Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4483400/view/689771494788563394
-- **GID:** 689771494788563394
-
-### Announcement text
-
-Update 0.0.22
-- More Main Menu Visuals Updates.
-- More Ultra Wide support.
-- Fixed an issue with Inventory UI on lower resolutions.
-
----
-
-## 16. Exil Island
-
-- **AppID:** 4131390
-- **Title:** Home sweet home. Please knock.
-- **Published:** 2026-10-14T17:43:03Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4131390/view/684141995253301663
-- **GID:** 684141995253301663
-
-### Announcement text
-
-A patch of grass. Some wood. A healthy distrust of the neighbours.
-Building in Ex/L turns empty ground into your own little hideout: lay down floors, put up walls, and remember the door. Otherwise, you’ve built a very personal prison.
-Are you a practical-shoebox builder, or does every “small starter base” somehow become a mansion?
-
----
-
-## 17. Bloody Duke
+## 19. Bloody Duke
 
 - **AppID:** 4997610
-- **Title:** Bloody Duke PC System Requirements!
-- **Published:** 2026-10-14T16:28:02Z
+- **Title:** v0.1.1 - demo Update is out now!
+- **Published:** 2026-10-20T08:08:19Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4997610/view/699904593951195519
-- **GID:** 699904593951195519
+- **URL:** https://store.steampowered.com/news/app/4997610/view/701030583835297430
+- **GID:** 701030583835297430
 
 ### Announcement text
 
-Hey everybody!
-The 
-official PC system requirements
-for Bloody Duke are out! The game runs really well on low-end systems and 
-runs perfectly on the Steam Deck
-.
-The system requirements are as follows:
-As always, please do 
-wishlist the game
- here:
+Hey there ladies and gentlemen! The Bloody Duke demo has received its first update since its release. There will be more patches and updates to come!
+Changes for v0.1.1 - demo:
+Slightly increased invincibility frames for dodging
+Tweaked and fixed the charge-up for Erinyes' Fury
+Fixed a bug where players could save at Erinyes' Echoes while having a menu opened
+Improved enemy tracking
+Fixed an issue where player settings would reset after beating a boss or when achieving the Second Retreat ending
+Slightly improved game performance
+As always, 
+please wishlist Bloody Duke:
 https://store.steampowered.com/app/4997610/Bloody_Duke/
 
 ---
 
-## 18. The Lonely Hacker
+## 20. Giblings
 
-- **AppID:** 2368100
-- **Title:** 2026 Major Update
-- **Published:** 2026-10-14T13:51:49Z
+- **AppID:** 5025950
+- **Title:** Giblings 1.0.8 release notes
+- **Published:** 2026-10-20T06:10:32Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/2368100/view/689771494788563319
-- **GID:** 689771494788563319
+- **URL:** https://store.steampowered.com/news/app/5025950/view/677386595815393690
+- **GID:** 677386595815393690
 
 ### Announcement text
 
-The first major update of 2026 is now live!
-This update brings the latest improvements and changes to The Lonely Hacker, including new content, bug fixes, translation improvements and more.
-Thank you for your continued support, and have fun hacking!
+The headline change is that Local Split Screen play now supports up to 
+four players
+!! 🎉
+But a lot more was done in addition to that:
+- Improved local-play setup, controller navigation, player joining and shared match settings.
+- Redesigned the split-screen HUD with compact health/ammo, score/lives and status indicators, a shared minimap and clearer pickup, weapon and kill notifications.
+- Added a zoom setting on the split screen, so players can zoom in osr out to whatever works best for their TV> 
+- Balanced Zombie Horde for local teams. Difficulty, Waves/Survival and bot skill are easier to access. Custom games support 250 zombies; Hard remains capped at 150.
+- Smoothed controller aiming. Your aim angle stays where you leave it.
+- Simplified the tutorial 
+- Made joining ongoing online matches off by default, while keeping it available in settings.
+- Fixed the golden Horde portal missing from replays, local-menu memory leaks and background map-loading cleanup.
+- Improved translations with help from native speakers.
 
 ---
 
-## 19. Wildsite
+## 21. Grim Heart: Bleak Laments
 
-- **AppID:** 2649120
-- **Title:** WILDSITE: Demo v0.610.09 & Next Fest Announcement
-- **Published:** 2026-10-14T09:08:31Z
+- **AppID:** 3985790
+- **Title:** A few patches & fixes - 0.0.3.1
+- **Published:** 2026-10-19T21:32:26Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/2649120/view/687519061335084367
-- **GID:** 687519061335084367
+- **URL:** https://store.steampowered.com/news/app/3985790/view/683016095346460706
+- **GID:** 683016095346460706
 
 ### Announcement text
 
-In addition to the demo update, we have something else to announce:
-Steam Next Fest:
-We are officially participating in the upcoming Steam Next Fest starting October 19th! Jump into the demo, try out the latest changes, and let us know what you think.
-To get you ready for Next Fest, we've rolled out a demo update packed with quality-of-life improvements, weapon overhauls, new models and a few much-needed sanity fixes (looking at you, Bob).
-🛠️ Patch Notes & Update Details
-⚔️️ Weapons, Combat & Gear
-Guns Out:
-You can now run with your weapon drawn... no more automatic holstering when sprinting!
-Grappling Grenade:
-Added the grappling grenade to the demo
-Improved Hitboxes:
-Overhauled attack hitboxes across weapons, with major improvements to spear precision
-Visual & Sound Polish:
-Fixed sound effects on the Multitool and various weapons
-🎮 UI, Controls & Quality of Life
-Ammo:
-Bullets and arrow quantities are now displayed directly on their Hotbar icons
-Mute Bob:
-Added a menu option to mute Bob (you're welcome) and a dedicated "Unstuck" option just in case terrain gets too cozy
-Controller Support:
-Enhanced overall controller navigation, including fix-ups inside station menus
-UI Warnings & Hints:
-Added a new Plasma Storm UI warning, new UI notifications, and building model hints
-Inventory Freedom:
-All items can now be dropped to help manage inventory space (except ammo and arrows)
-🌍 World, Survival & Balance
-Weight & Physics:
-You can no longer sprint while overweight and also revisited items and stations weights
-Base building:
-Base walls now take damage from giant creatures, plasma storms and your own misplaced attacks
-Lighting:
-Improved torch and flashlight brightness; along improvement to night-time lighting
-Fresh Models:
-Brand new 3D models for all crafting stations, including the Shrink Device
-Audio:
-Updated footstep sound effects for walking on dirt and grass.
-🐛 Bug Fixes & Adjustments
-Fixed some enemy pathing (player following) and damage calculation bugs (WIP)
-Fixed a rare bug that prevented players from drinking water near the crash site
-Fixed some UI save/load menu issues
-Play the demo during Next Fest, join our community feedback discussions and don't forget to Wishlist Wildsite to get notified on November 5th!
-Cheers,
-The Dev Team
+Grim Heart: Bleak Laments
+Changelog | v0.0.3.1
+Start Date: 14th of October, 2026
+⚔️ Gameplay & Combat
+* Hemwick can now jump without delay, as the transition animation between the idle and jumping states has been removed.
+* Added the Coyote Jump mechanic.
+🗺️ World & Level Design
+* Modified the boss room by adding an additional locked gate. Like the existing gate, it will unlock after defeating Oswald.
+* Removed the platform above the boss arena.
+👹 Enemies & Bosses
+* Oswald can no longer repeatedly summon Dread Orbs in rapid succession.
+🎨 Art & Visuals
+* Reworked the Push Spell's effect shader.
+🖥️ UI & UX
+* Updated the visual effects displayed when buttons are hovered over or focused.
+* Removed the Objectives button from the Journal screen.
+* Redesigned the Gear screen layout.
+* Added weapon icons.
+* All checkpoints are now visible on the map.
+* Adjusted several font colours in the Journal screen.
+* Added minimal menu prompts.
+* Charms now display an outline when selected.
+⚙️ Technical & Performance
+* Checkpoint IDs are now saved.
+🐛 Bug Fixes
+* Fixed a bug that caused an enemy's horizontal velocity to stop while it was mid-air after being killed.
+* Increased the controller deadzones for the LEFT, RIGHT, and DOWN directions.
+* Fixed several Z-index issues affecting gate levers.
+* Fixed a bug that caused the camera to be positioned incorrectly after loading a save file in which Hemwick had not yet reached a checkpoint.
+* Dropped rifles no longer land perpendicular to the ground.
+* Fixed controller bindings for LEFT and RIGHT so they now work as intended.
+* Fixed an issue that allowed Oswald's fight to be triggered while the player was outside the arena.
+* Fixed an issue that could cause Oswald to get stuck near walls while in the Wander state.
+* Fixed an issue that caused the objective icon on the map to be misplaced after loading a save file in which Oswald had already been defeated.
+* Fixed a bug that caused Hemwick to fall through the map after loading a save file.
+* Fixed a bug that caused Oswald's health to drain too rapidly when he caught fire.
+* Fixed a bug that caused temperature status effect to decrease at different rates depending on the FPS.
+⚠️ Known Issues
+The following issues are currently known and may be addressed in future updates:
+* Particles for some dropped weapons are not displayed correctly.
+* Blood particles have incorrect Z-index values in certain areas.
+* The camera does not update when Hemwick is pushed out of a room by an enemy.
+* Some enemies slide uncontrollably when hit just before attacking.
+* Some enemies exhibit movement glitches when interacting with pushable objects, such as barrels.
+* Occasionally, enemies remain idle instead of playing their death animation.
+* Hemwick's sprite briefly becomes invisible after entering the air-attack state when there is only a small gap between him and the floor.
+* Hemwick does not die when touching impaling spikes attached to the ceiling.
+* Players and enemies cannot die from the Burning effect. Instead, their health is reduced to 0 without triggering death.
+* The controller layout in the Journal screen does not work properly.
+* Some gameplay prompts may occasionally become bugged.
+💀 Final Notes
+Thank you for playing Grim Heart: Bleak Laments and for continuing to follow its development.
+Your feedback helps shape the game as it moves toward its next milestone!
 
 ---
 
-## 20. MR MAGEBOY
-
-- **AppID:** 4483400
-- **Title:** Update 0.0.21
-- **Published:** 2026-10-13T15:24:26Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4483400/view/677385962174549777
-- **GID:** 677385962174549777
-
-### Announcement text
-
-Update 0.0.21
-- Polished up the Player Sprite.
-- Changed the Prestige Exp bar to Purple to match with the portal.
-- Show Stats by default(Turn Off with H)
-- Changed the names of the language selections to their own country names.
-- Fixed an issue where Language selection started on English instead of the actual language selected.
-
----
-
-## 21. Breachway
-
-- **AppID:** 2118810
-- **Title:** Experimental branch update - hacking and engineering bay design pass
-- **Published:** 2026-10-13T15:20:30Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/2118810/view/683015755528143352
-- **GID:** 683015755528143352
-
-### Announcement text
-
-Hey,
-a new test build is out, with the 
-Hacking
-and 
-Engineering bay
-design pass, some new cards, a new Lancer starting equipment.
-Main Changes:
-Hacking has been simplified, security is no longer consumed by your own hacking cards, instead they are powered by other enemy states in some cases, making them synergize more with cards outside of the hacking equipment.
-The Maintenance Bay is now an Ext Attachment equipment, using the torpedo pods as a placeholder model.
-The Disruptor hacking equipment has been renamed to **Inductor** , to prevent a naming clash with the Disruptor Ion cannon.
-The Lancer has a new starting equipment option, replacing the Inductor - the Smelter resource bay.
-The Engineering bays (Weapons, Shielding, Maintenance) and Hacking consoles (Suppressor, Corruptor, Inductor) now have upgradable cards.
-The equipment changes:
-Hacking:
-Corruptor Console
-Weaken (3E, CD 6): Apply 1 Suppression for every attack card in the enemy’s hand. Hack
-Sap (2E, CD 6): -1 enemy Shield Duration. If already at 0, remove 5 Shield Points instead. Hack
-System Strain (2E, CD 7): Apply 1 Blind. If the enemy has Ionize: apply 2 instead. Hack
-Field Depletion (1M 2E, CD 6): Apply -1 Shielding to the enemy for the rest of the fight. Deplete, Hack
-Wipe (1M 3E, CD 8): Remove 1 enemy Buff. Hack
-Leech Defenses (3E, CD 7): Transfer 50% of the enemy’s next Shield card to you. Hack
-Sabotage (2E, CD 7): Increase the repair time of a random destroyed enemy equipment by 2. Hack
-Backlash (2M 3E, CD 8): For the rest of this fight, at turn end, each enemy weapon that attacked this turn takes 2 damage (3 if the enemy is Brittle). Deplete, Hack
-Inductor Console
-Thermal Tick (3E, CD 6): Enemy sustains 2 Heat for every card it plays on its next turn. Hack
-Hack Heatsinks (1M 3E, CD 7): Set enemy Heat tolerance to 0 for 1 turn. Hack
-Boiling Point (1M 3E, CD 7): Apply Heat equal to the enemy’s Heat tolerance. Deplete, Hack
-Exothermic Shields (2M 3E, CD 8): For this fight, the enemy sustains 3 Heat whenever you break its shield (4 if it has Coolant Loss). Deplete, Hack
-Thermal Relay (2E, CD 6): For the rest of this turn, the enemy sustains 1 Heat for every card you play. Hack
-Battery Fire (3E, CD 7): Enemy sustains 1 Heat for every 3 Shield Points. Hack
-Rupture (3E, CD 6): Enemy sustains 1 Coolant Loss for every attack it plays on its next turn. Hack
-Thermal Sensitivity (2M 2E, CD 8): For this fight, the enemy loses 3 Shield Points on turn end if Overheated. Deplete, Hack
-Thermal Amplifier (4E, CD 8): Double the enemy’s Heat. Hack (Mk.2 only)
-Suppressor Console Mk.I
-Restrain (2E, CD 7): Delay a random enemy weapon by 1 turn. If the enemy has Ionize: delay 2 random weapons instead. Hack
-Waylay (2E, CD 7): Turn the closest incoming missile into an outgoing Firefly. Requires: Incoming Missile. Hack
-Glitch (3E, CD 6): Disable targeted enemy equipment for 1 turn. Hack
-Reset (3E, CD 7): Discard a card from 1 random disabled equipment. If not available, disable a random equipment for 1 turn instead. Hack
-Prolong (3E, CD 6): Every disabled equipment stays disabled 1 turn longer. If none is, disable a random equipment for 1 turn instead. Hack
-Defrag (3E, CD 6): Remove your oldest Debuff. If you have Duration: goes on cooldown instead of depleting. Deplete
-Neutralize (1M 3E, CD 8): For 2 turns, disable a random enemy weapon at turn start. If the enemy is Overheated: +1 duration. Hack
-Pacify (4E, CD 8): Disable all enemy weapons for 1 turn. Deplete, Hack
-Reboot (2M 3E, CD 8): For 2 turns, disable an enemy equipment for 1 turn after it plays a card. If the enemy has any Suppression: +1 duration. Hack (Mk.2 only)
-Aux Hacking
-7 cards are shared with the consoles above: Restrain, Glitch, Weaken, Sap, Thermal Relay, Hack Heatsinks, Sabotage.
-Backdoor (2E, CD 6): Remove all enemy Security. Draw 1 card. (Aux exclusive)
-Engineering Bays:
-Weapons Bay
-Take Aim (2M, CD 5): This turn, your attacks deal +1 damage.
-Rapid Cycling (2M, CD 5): Attacks in your hand have their cooldown reduced by 2 this turn.
-Offensive Assurance (3M, CD 8): Deal +1 damage. Upkeep: Don’t take any hull damage.
-Pyrophoric Reaction (2M, CD 5): This turn, increase the Shred and Ignite value of your attacks by +1.
-Weapons Hot (2M, CD 6): Attacks you play this turn apply 1 Shred for every 3 hull damage dealt.
-Pin Down (2M, CD 6): This turn, Area attacks you play apply 1 Suppression to the enemy. (Triggers on play; a repeated attack counts twice.)
-Target Lock (3M, CD 8): +1 Precision damage. Upkeep: Play at least one attack per turn.
-Attack Mode (3M, CD 7): Draw 1 card after every attack played this turn.
-Streamline (3M 1E, CD 4): This turn, each Attack card played reduces the cost of all other Attack cards by 1 Ordnance. Deplete (Mk.2 only)
-Full Power (3M, CD 8): This turn, attacks that cost Ordnance cost 1 more Ordnance and deal +15% damage per Ordnance they cost. (Mk.2 only)
-Shielding Bay
-Defensive Stance (2M, CD 6): Gain 2 Energy and draw a Shield card.
-Galvanize (2M, CD 6): This turn, Shie
-
-[Content truncated by collector]
-
----
-
-## 22. Night Cart: The Immortal Plague
-
-- **AppID:** 4769780
-- **Title:** NextFEST Demo Released
-- **Published:** 2026-10-13T14:41:53Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4769780/view/705533459844566499
-- **GID:** 705533459844566499
-
-### Announcement text
-
-Welcome, cart drivers, both new and returning! The 
-Night Cart – The Immortal Plague
-demo is ready for Steam Next Fest, and we’re excited to invite you into our plague-stricken corner of Transylvania. Meet Nera, take the reins, and discover what waits along the road.
-STEAM DECK SUPPORT
-Our Steam Deck demo update is also live!
-We’ve put a lot of work into performance and controller support, with menus and UI designed to be navigated comfortably using a controller. If you have a Steam Deck, we’d love for you to download the demo, get comfortable, and take Night Cart for a ride.
-FEEDBACK, FIXES AND IMPROVEMENTS
-If you played the original demo, we recommend giving the updated version another go. It brings 
-improved graphics and performance, new and more streamlined features, refined controls, and many, many, MANY bug fixes.
-Your feedback has helped shape these improvements, and we’re eager to hear how the game feels now.
-You can change the entire history of updates and fixes on our 
-Discussion Forums
-. Going forward, we'll take a couple of days off to relax and we'll be back with the daily updates as soon as NextFEST starts. 
-Please use the 
-Steam discussion forums
-to share your impressions, report bugs, or ask questions. Whether you get stuck, spot something strange, or just want to tell us about your journey, we’d love to hear from you.
-Thank you for playing and for being part of Night Cart’s journey. If you enjoy the demo, please consider adding the full game to your wishlist. See you on the road!
-
----
-
-## 23. MR FARMBOY
-
-- **AppID:** 2795090
-- **Title:** An Event About Incrementals! + MR MAGEBOY DEMO!
-- **Published:** 2026-10-13T11:15:01Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/2795090/view/717918358822980922
-- **GID:** 717918358822980922
-
-### Announcement text
-
-I am proud to take part in the new Steam Festival 
-- 
-An Event About Incrementals
-- with a 
-20% discount!
-Check out a whole ton of cool games on the festival page: 
-https://store.steampowered.com/curator/46266096-An-Event-About-Incrementals/sale/aneventaboutincrementals
-And check out the festival website: 
-https://aneventaboutincrementals.com/
-MR MAGEBOY DEMO IS ALSO LIVE!
-CONSIDER WISHLISTING AND LEAVING A REVIEW!
-https://store.steampowered.com/app/4483400/MR_MAGEBOY/
-
----
-
-## 24. Between These Two
-
-- **AppID:** 4057320
-- **Title:** Minor Dungeon Level Fix
-- **Published:** 2026-10-13T09:20:53Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4057320/view/676260062267706709
-- **GID:** 676260062267706709
-
-### Announcement text
-
-Fixed a few misplaced objects in the dungeon level.
-
----
-
-## 25. Blood in the Panopticon
-
-- **AppID:** 4109210
-- **Title:** DEVLOG 3
-- **Published:** 2026-10-12T18:53:13Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4109210/view/699903960312450355
-- **GID:** 699903960312450355
-
-### Announcement text
-
-Hello,
-Next Update + Free DLC
-The new update is almost ready. It will go live sometime towards the end of next week together with the free dlc. They will be live before the start of the Halloween event.
-That's all on this. 
-Very important!
-If you haven't seen this post, check it out:
-https://store.steampowered.com/news/app/4109210/view/699903960312449072
-
----
-
-## 26. Between These Two
-
-- **AppID:** 4057320
-- **Title:** New Objective System & Easier Gameplay
-- **Published:** 2026-10-12T18:35:50Z
-- **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4057320/view/676260062267706493
-- **GID:** 676260062267706493
-
-### Announcement text
-
-A Major Update for Between These Two!
-I've been working hard to make 
-Between These Two
-a more enjoyable and accessible experience. This update brings several important changes to improve the overall gameplay and help players progress more smoothly.
-What's New?
-New Objective System
-: A new system that guides you throughout the game, helping you understand what to do next.
-Simplified Platforming
-: Platforming sections have been made significantly easier and less frustrating.
-Enemy Rebalancing
-: All enemies have been adjusted, including their damage and health, making combat more manageable.
-Level Improvements
-: Small changes have been made to the Dungeon, Forest, and Mansion levels, including moving existing objects and adding new ones.
-Achievement Fix
-: Fixed a bug with the achievement for completing the game without suffering a Fatal Injury. It should now unlock correctly when the requirements are met.
-My goal with this update is to make the game more accessible while preserving the atmosphere and experience that make 
-Between These Two
-special.
-Thank you to everyone who has played and supported my game!
-
----
-
-## 27. Drunkonauts
+## 22. Drunkonauts
 
 - **AppID:** 3603900
-- **Title:** 🚨 1 Week Until Next Fest 🚨
-- **Published:** 2026-10-12T18:30:16Z
+- **Title:** ✦ Release Date Announcement ✦
+- **Published:** 2026-10-19T18:30:45Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/3603900/view/713414759190367222
-- **GID:** 713414759190367222
+- **URL:** https://store.steampowered.com/news/app/3603900/view/697652884114768571
+- **GID:** 697652884114768571
 
 ### Announcement text
 
-Drunkonauts, we’re almost there!! In just 
-7 days
-, 
-Steam Next Fest
-kicks off and the chaos unleashes.
-From 
-19 to 26 October
-, you’ll be able to jump into our freshly updated demo, drag your friends in, and see everything we’ve been cooking. 👨🏻‍🍳
-「 ✦ What’s Waiting For You ✦ 」
-🚀 Smoother movement and better air control
-🎯 Sharper aim when you’re on the move
-🎮 Cleaner menus and controller navigation
-🤖 Quick Join matchmaking, so you’re never stuck waiting for a lobby
-「 ✦ The Big News ✦ 」
-Don't forget that during the fest we’re dropping a MAJOR announcement, one a lot of you have been waiting for. 👀
-Sooo you’ll want to be there for this one, trust us 😉
-⌛ 7 DAY TO GO!! See you at the fest!!!!
-In the meantime...
-「 ✦ How to support the game ✦ 」
-⭐ Add Drunkonauts to your 
-Steam Wishlist
-so you don't miss the 
-big news
+Okay. Deep breath. We’ve been sitting on this one for weeks and it’s been KILLING us (in more ways than you might think lol).
+BUT it's finally time!! 
+Drunkonauts launches 
+! 🚀
+That's it. That's the announcement. A game about drunk astronauts throwing each other into the void has a real release date, and honestly, we still can’t quite believe we got here.
+▶️ Official Release Date Trailer: 
+https://youtu.be/VCrjZoAPlB8
+「 ✦ What Lands on November 4 ✦ 」
+🗺️ All 8 maps, each one with its own hazard event
+👑 New game modes, including Hold the Crown and King of the Hill
+👔 New fun items for customization at the Lost & Found station
+「 ✦ What You Can Do Right Now ✦ 」
+🎮 Play the updated 
+demo
+during Next Fest, which is live until October 26 (it helps a lot)
+⭐ Wishlist Drunkonauts so Steam reminds you on November 4
 💬 Join our 
 Discord
-to follow development and get the news first: 
-https://discord.gg/gBqqWPwj5k
-🎮 
-Try the free Demo!
-https://store.steampowered.com/app/3807400/Drunkonauts_Demo/
+and tell us what you break
+One last thing. 
+Thank you
+for backing this weird little game about drunk astronauts, whether you played the demo, sent feedback, reported bugs, or just simply stuck around through the devlogs. Genuinely. You got us here. 🩵
+See you in space. 
+November 4.
+🍻
 
 ---
 
-## 28. Potions Galore
+## 23. Forsaken Trials
 
-- **AppID:** 5079620
-- **Title:** Demo is out!
-- **Published:** 2026-10-12T16:39:28Z
+- **AppID:** 4992960
+- **Title:** Next Fest update: rebindable controls and controller support
+- **Published:** 2026-10-19T17:00:44Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5079620/view/719044258722483333
-- **GID:** 719044258722483333
+- **URL:** https://store.steampowered.com/news/app/4992960/view/712289492929611044
+- **GID:** 712289492929611044
 
 ### Announcement text
 
-Hello Apprentices!
-We are glad to announce the demo for Potions Galore is out now! 
-Get to reading and sorting!
-What will you find in the demo?
-Lobby area to explore and sort
-447 potions to discover and read about
-AZERTY support as a Gameplay option until full input remapping
-The shop opens its doors only for the 
-lobby
-area. 
-The rest will be blocked off as they are not yet ready for the public. 
-Tell your friends, and come read, sort, and learn about the world of Potions Galore!
-Aaaaalso we have reached 1000 wishlists! 
-Thank you,
-Bogdan & Raluca
+Forsaken Trials is in Steam Next Fest, October 19–26.
+The free demo has seven training levels and three temples. This update is all about making it comfortable to play, however you play.
+Rebindable controls
+Every keyboard action can be rebound: movement, sprint, jump, crouch, restart and pause
+Controller buttons can be rebound too
+Reset to defaults at any time, separately for keyboard and controller
+Better controller support
+The game detects whether you’re using a keyboard or a controller and switches instantly
+Every on-screen prompt, from the training levels to the results screen, shows the right key or button for your device and your own bindings
+Separate look sensitivity and invert Y for the right stick
+New settings menu
+Split into tabs: Graphics, Audio, Keyboard & Mouse, and Controller
+Available from both the main menu and the pause menu
+If you’re enjoying the demo, a wishlist helps more than you’d think. Thank you! 
+❤️
 
 ---
 
-## 29. Mexican Ninja
+## 24. Half Grip
 
-- **AppID:** 3764970
-- **Title:** Announcing Mexican Ninja x Alpha Nomos! 🎵
-- **Published:** 2026-10-12T15:05:05Z
+- **AppID:** 4163270
+- **Title:** Demo Out Now !
+- **Published:** 2026-10-19T16:00:37Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/3764970/view/687518426922484069
-- **GID:** 687518426922484069
+- **URL:** https://store.steampowered.com/news/app/4163270/view/674008896091719264
+- **GID:** 674008896091719264
 
 ### Announcement text
 
-TWO GAMES. ONE BUNDLE.
-Alpha Nomos
-is launching, and we're joining forces for a brand-new Steam launch bundle! Be sure to check out this awesome rhythm based roguelike!
-https://store.steampowered.com/app/2529960/Alpha_Nomos/
-Grab 
-Mexican Ninja
-alongside 
-Alpha Nomos
-and get both games together at a special bundle discount.
-https://store.steampowered.com/bundle/90078/Alpha_Ninja/
-Cheers!
+Start your engines, 
+DEMO IS OUT 
+!!!
+Featuring:
+A full roguelike run: a branching map 7 races long with 3 lives, objectives, and a shop between races.
+71 items to collect, each with unique abilities: use them to obliterate your enemies, gain lap time, or even turn back time.
+10 race setups across 5 tracks: Stadium, Forest, Winter Mountain, Fire Factory and Tokyo, each with its own weather or time of day, featuring mirrored and reversed layouts.
+15 Achievements to unlock.
 
 ---
 
-## 30. Terraformer Wars
+## 25. Chip Builder
 
-- **AppID:** 4866890
-- **Title:** Huge and Final Demo Update
-- **Published:** 2026-10-12T10:27:54Z
+- **AppID:** 5095670
+- **Title:** Updates Notes for 19th of October
+- **Published:** 2026-10-19T11:51:40Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/4866890/view/668378762918759519
-- **GID:** 668378762918759519
+- **URL:** https://store.steampowered.com/news/app/5095670/view/693149194510140783
+- **GID:** 693149194510140783
 
 ### Announcement text
 
-Hey folks,
-We have good news and huge news.
-First of all, we just received a first impression video from Splattercat :
-https://www.youtube.com/watch?v=dGU-yI1cfOk
-Now the good news is that we managed to fix and improve almost everything he mentioned in the video regarding onboarding, first-time user experience, quality of life, balance, polish, and other issues.
-Splat, if you read this: Thank you for all your support for indie devs!
-In addition to this, we also added extra stuff in the mix that was reported by other players, plus some new content.
-Here is the complete list of new things we just updated the demo with:
-BUGS & GLITCHES FIXES
-- 4k screen support fixes:
-- Shop sprite lift so it does not obstruct the items 
-- Some grammar mistake fixes
-- Some small glitches found and fixed
-- Some bugs exterminated
-QOL
-- If not enough money to upgrade item also show money price with red collor 
-- Now allies will also display reload animated icon when they are reloading
-- Now you can see and sell items that are already equipped on terraformers
-- Show tooltip on equipped items too
-- in shop also display price amount on tooltip for inventory items
-- tooltips added for all inventory buttons including for category buttons
-- tooltips added for all buttons in shop
-- tooltips added even for main menu buttons
-POLISH
-- Grey smoke effect when turretss with white projectiles shoot
-- Red smoke effect when turrets with red projectiles shoot
-- Animated sparks in main menu
-- incerased default light intensity of the scene
-- Wave time runs out restart chronosphere effect
-BALANCE:
-- Increase damage of acid rain
-- Reduce cost of refresh button costs multipliers from shop
-- Decreased default turret rotation speed by 30% so that module with rotation speed has more impact
-- HP module reballanced
-- RELOAD module removed from the game
-- Reload time reduce by half on all weapons and ammmo capcity incerased
-- Perk prestige screen total reballance
-- Upgraded items total rebalance, now they are all more powerful acording to each class
-- Fog and EMP stormed removed from first planet and they will be readded on medium planet with some more polish on the visuals
-- All the weapons except lazer have now 25% damage penalty when hitting a forcefield and all rocket based weapons must have a 50% penalty when hitting a forcefield
-- When timer runs out and it restarts to management also repair all vehicule to full for free even if before that fight the vehicules did not had full HP
-CONTENT:
-- New mechanic: when player choose easy dificulty from mission screen to always have -1 wave evo during that wave
-- Added Mission select screen tutorial hint
-- Added Shop screen tutorial hint
-- Added Tactical zoom tutorial hint
-- Added a few new perks in prestige screen
-- Now in management screen you can also see starting enemy positions so you can adjust your logistics better before each combat
-- New module that instant repairs terraformer HP amount after each battle
-- New repair module achievement with prestige reward
-- New voice actor achievement with prestige reward
-- Added voice acting lines during combat for certain events/triggers
-Now that this stage of development is complete, we are moving to working on finishing the game content.
-More news to come soon.
-Regards,
-Cristi P. - 16 BIT NIGHTS
+New: Chapter 11 · FAB CEO
+The board of ChipCorp makes you its chief executive. FAB CEO is a turn-based strategy game on an island that grows with the decades. Every turn is one week. Stay in the job for 35 years and you retire with the chapter complete. After that, you can keep playing as long as you like.
+Pick your era:
+take over in 1947, 1959, 1971, 1985, 1998, 2011, 2019 or 2030. No two starts are alike: the company's cash, its first customer, its suppliers and its rivals change every time.
+Make chips and sell them:
+plan production, set prices, and negotiate contracts with clients and suppliers. Before you sign, the game shows whether a new client fits your capacity.
+Grow the company:
+research eight technology trees, build new fabs (chip factories) on four sites, upgrade them, sell them, or buy a rival outright.
+Manage the money:
+borrow, invest, raise funding and take the company public. Once you list, the share price follows your results, and activists or a hostile bidder may come for you.
+Lead your people:
+hire engineers and executives, keep them happy, and hand work to the executives you trust.
+Face your rivals:
+they race you to new technology, poach your staff, sue over patents and start price wars. One chief rival stays in the race on every difficulty, so you always have someone to beat. The rival companies get new names in every campaign.
+Read the world:
+four trading blocs set tariffs and export controls, environmental rules tighten over the years, and real events of each decade move the market, all the way to the AI boom.
+Answer to the board and the press:
+the board reviews you every quarter against its targets. After two warnings, the next bad review costs you the job. Reporters ask hard questions, and every answer is a trade-off that you see only after you give it.
+Plan ahead:
+the calendar lists board meetings, results days and trade fairs, and shows them on a month-by-month grid.
+A living island
+The campus, the town and the cars change with every era.
+People walk to the shops and cross at the crosswalks, and traffic flows through the streets.
+Detailed trains run through two lit tunnels. Their wheels and rods turn, steam engines puff smoke, and the barriers come down at the level crossing.
+Ships of each era sail past the harbour, and planes of each era take off from the airport on the west coast.
+A nuclear power plant opens on the south coast in 1970, and delivery drones fly over the town from 2030.
+What you build shows on the map, from a power plant in a fab's yard to a whole new fab.
+Keep watching: a few moments from history play out on the island, if you look in the right place at the right time.
+Help and controls
+Tutorial film:
+a narrated film plays the first time you open the chapter. "Watch the tutorial" in the menu plays it again.
+Manual:
+the menu opens a full illustrated manual, written like the printed manuals that came in game boxes, and a page of hotkeys.
+Camera:
+move the mouse to any edge of the screen or use the arrow keys to scroll. Click the minimap to jump to a spot, and press < and > to turn the map.
+Hotkeys:
+each building has a key that opens its screen.
+Turns:
+END TURN shows an hourglass, then a short message tells you what changed.
+Difficulty:
+the setting on the main menu applies to FAB CEO too. On Guided, the bank steps in when your cash runs out, the board sends a turnaround adviser after its final warning, and the game warns you when a new fab needs more supplies.
+Saves:
+the campaign saves itself after every turn, and the chapter opens straight into it next time. Save up to ten named campaigns from the menu, and load them with the new LOAD button on the main menu.
+Steam Cloud:
+your saves now follow you to every computer you play on.
+Also new: Chapter 10 · The AI Accelerator
+Five levels after Chapter 9 take you inside the chip behind today's AI: the multiply-and-add cell, small number formats, the systolic grid, the memory wall and the splittable array. A short narrated film explains what an AI chip is when you open the chapter's first level. Click or press any key to skip it.
+Fixes
+Share buttons:
+they now open the game's store page, instead of a store search or a broken link.
+Level select:
+clicking a level further down the list no longer scrolls the list back to the top.
 
 ---
 
-## 31. Awaken, Empress of the Night
+## 26. Wildsite
 
-- **AppID:** 5097200
-- **Title:** Let's talk about my upcoming game "Awaken, Empress of the Night"
-- **Published:** 2026-10-09T10:26:51Z
+- **AppID:** 2649120
+- **Title:** Watch us play Wildsite: Demo
+- **Published:** 2026-10-19T08:35:36Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5097200/view/685267261521398001
-- **GID:** 685267261521398001
+- **URL:** https://store.steampowered.com/news/app/2649120/view/760703279879422742
+- **GID:** 760703279879422742
 
 ### Announcement text
 
-Hello,
-I am Sebastian, and I am the sole developer of "Awaken, Empress of the Night". This is my second game. You can find the first one here: 
-https://store.steampowered.com/app/4109210/Blood_in_the_Panopticon/
-It was a Sci-Fi action roguelike where you take care of an android and mange your relationship with her while you try to eradicate humanity together.
-Awaken Empress of the Night is going to be a dark fantasy map game where you play as a reborn goddess who started her own cult. Together with Miriam, the noble Lady that brought you back to life, you are going to take over Lower Lessia. 
-More detail on the lore, story and gameplay here:
-https://store.steampowered.com/news/app/5097200/view/685267261521398007
-But why I made this announcement was because I wanted to talk to you. I want to answer your questions about the game, to know your opinions on what the game is going to be and so on.
-So please, ask away!
+Take a look at current gameplay footage from 
+Wildsite: Demo. 
+Catch a glimpse of survival mechanics, exploration and hit the Wishlist button if you like what you see.
 
 ---
 
-## 32. Awaken, Empress of the Night
+## 27. House Of Echoes
 
-- **AppID:** 5097200
-- **Title:** A new Strategy RPG Incremental Map Game! AWAKEN, EMPRESS OF THE NIGHT
-- **Published:** 2026-10-09T10:26:34Z
+- **AppID:** 4941280
+- **Title:** Demo Walkthrough Out On Youtube
+- **Published:** 2026-10-18T22:21:35Z
 - **Author:** (not provided)
-- **URL:** https://store.steampowered.com/news/app/5097200/view/685267261521398007
-- **GID:** 685267261521398007
+- **URL:** https://store.steampowered.com/news/app/4941280/view/679638395625932055
+- **GID:** 679638395625932055
 
 ### Announcement text
 
-Awaken Empress of the Night!
-It is 30 years after the world ended. The World Empire has vanished. Monsters and plagues roam the lands. Government structures have crumbled. The world is all but lost.
-And in this chaos, a young noble lady from the cursed lands of Lower Lessia has brought something back into this world. Sacrificing her half-sister, she used her heart in an ancient ritual. And that ritual brought HER back into the world. 
-Or, to speak more in game terms, she brought YOU into the world.
-Finding yourself in this godless world, you quickly decide to fill the gap. Now, quickly, while the lands are still fractured and confused.
-But you are not the only one who had this idea.
-The current state of the game.
-Mechanically, the game is mostly there. The screenshots you see on the Steam page are not mocks. They are the actual working game. BUT the content itself as in "the missions", "story" etc are still in the super early stages. I barely began writing anything other than a few test missions and the tutorial.
-UI
-The art is still very much not there yet. There are a billion things I still have to draw. Including tens of relics, 20 more followers, mission banners and the whole UI.
-The UI especially is eating a lot of time. Because I just learned how to draw, I can barely manage to balance the level of detail in a single drawing. But the UI is tens of drawings all next to each other. I did not include any of the actual UI in the Steam page screenshots, but I will give you a hint here:
-It will be something like this. It is still very much work in progress. But you get the idea. What I struggle with now is that it looks a bit busy. Maybe because of the big frame decorations.
-This page is the only one I was able to get fully drawn. The rest still look like the Steam page.
-But I was also working on the dialogue box. And here's a mock of that:
-Again, very much work in progress. 
-More on the art
-Sadly, I am working on all these 100% alone and I am still learning to draw. My skills are pretty sloppy. So I have to redo stuff multiple times. For example, I drew Een and Miriam first. Rati, the one above was among the last followers I made. And I am happy to see how much my skills have improved by drawing for at least 8 hours every single day for the past month or so. But I am not happy that I now have to redraw my earlier pieces.
-You can clearly see how my ability to pick colors, compose a piece and make believable perspective clearly went up. But this now makes Miriam look bad in comparison. So yeah, I'll need to redraw her. Especially since she is the second most important character.
-Artistic inspiration
-While looking at these pieces, especially UI you might think it looks familiar. Even more so if you've played Hades. You might even think that some dude who likes Anime decided it would be faster to adapt an existing style than to develop his own from scratch. And you'd be pretty much spot on with that assessment.
-If you haven't read any of my previous devlogs, you probably don't know that two years ago I was incapable of drawing a straight line. And even making a stickman was a level 1000 challenge. But I really really really wanted to make a game. So I made Blood in the Panopticon in a way that required as little art as possible. But during that time, I kept working on my drawing skills. I did not really draw much for myself, I just studied and studied and then studied again. I'd have a small sketchbook with me on the subway, I would draw during every little break I had, even if it was just a pile of three cubes. A lot of people kept telling me to give up and just use AI "like everyone else", but alas, I persevered. And now I can finally make the art myself with no one and no AI involved.
-Now back to Hades. As my entire art learning process was on 100% fast-forward, I decided that it would take too long to develop my own rendering style from scratch. So I started looking long and hard for a style I could take as a starting point. A style that relied on big shadows, simple details and bold colors. I am not a huge Hades fan (I did enjoy the first game though), but their artstyle really fit the bill for what I needed. So I used it as a reference for the early pieces I made and then I kept building myself on top of that. I am still super far off quality-wise. Like, I constantly feel like I am actively disgracing all their amazing work with my poor attempt at copying them. But the alternative was waiting one more year to make the game. And I didn't really want to do that. 
-Some other inspirations I had for the game were Paradox games. Especially Crusader Kings. For the menus and the map mainly.
-Gameplay
-Speaking of Crusader Kings, what I really loved in that game was the role play aspect and the scheming. So I tried borrowing A LOT from that into Awaken. The way you progress in the game is by extending your influence in nearby provinces. Then, taking control of them through a series of missions. Expect to have to bri
+Hello everyone!
+In preparation for Steam Next Fest, we have released a walkthrough for the demo on Youtube. 
+We know that the puzzles are quite challenging and we're working on better tutorials and other ways to make the game more accessible to new players while also maintaining the high intricacy we've delivered so far. In the meantime, if you get stuck on any of the puzzles that are present in the demo, you can follow this walkthrough to find out the solution and explanation of the particular challenge that you're facing.
 
-[Content truncated by collector]
+---
+
+## 28. Rad New World
+
+- **AppID:** 4957250
+- **Title:** v0.2.8
+- **Published:** 2026-10-18T21:18:52Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4957250/view/717918992460678210
+- **GID:** 717918992460678210
+
+### Announcement text
+
+Update v0.2.8 – Second Inventory Update
+Hey survivors!
+While we wait for the Game Demo approval, I went ahead and dropped another inventory-focused update.
+Update 0.2.8 is now live!
+This is the second inventory update and brings a bunch of new goodies:
+Extra items, meds, weapons, ammo, and more
+Weapon sounds added
+New Talents (Perks)
+Quality-of-life improvements
+Additional content & Radio shows.
+Thanks for your patience and support — more coming soon!
+https://youtu.be/wnB651An_ks?si=UwVXNL1LbQ8lCclD
+Stay radioactive!
+
+---
+
+## 29. Solar Escape
+
+- **AppID:** 4237420
+- **Title:** SOLAR ESCAPE IS OUT NOW!
+- **Published:** 2026-10-18T18:39:22Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4237420/view/705534184444134123
+- **GID:** 705534184444134123
+
+### Announcement text
+
+Solar Escape is finally out! 🚀
+Thank you to everyone who supported development, tested, and shared feedback along the way.
+
+If you enjoy the game, leaving a quick review on Steam helps a ton!
+Have fun playing!
+
+---
+
+## 30. Desktop Factory
+
+- **AppID:** 4826820
+- **Title:** Demo Live
+- **Published:** 2026-10-18T15:10:54Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/4826820/view/688645594881721302
+- **GID:** 688645594881721302
+
+### Announcement text
+
+Hello Capylists! 
+Today marks a great day for our organization as we move into mining the galaxy. 
+We are in the process of recruiting more miners to join our ranks, do you have what it takes to be a star employee? 
+Upgraded Demo
+During next fest;
+the number of playable planets was increased from 
+one
+to 
+three
+!
+you can purchase any meta tech upgrade instead of being limited to the starting group
+
+---
+
+## 31. Chip Builder
+
+- **AppID:** 5095670
+- **Title:** Update Notes for 11th of October
+- **Published:** 2026-10-11T06:30:35Z
+- **Author:** (not provided)
+- **URL:** https://store.steampowered.com/news/app/5095670/view/711162959377730617
+- **GID:** 711162959377730617
+
+### Announcement text
+
+Fixed an issue where the explainer video was not showing after completing the first level the first time.
 
 ---
