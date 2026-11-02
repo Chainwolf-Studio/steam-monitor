@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-26T00:23:54Z",
-  "since_utc": "2026-10-11T00:23:54Z",
-  "games_checked": 467,
-  "new_announcements": 31,
+  "generated_utc": "2026-11-02T01:30:18Z",
+  "since_utc": "2026-10-18T01:30:18Z",
+  "games_checked": 470,
+  "new_announcements": 25,
   "games_with_errors": 0,
   "sheet": {
-    "rows_read": 467,
-    "unique_appids": 467,
+    "rows_read": 470,
+    "unique_appids": 470,
     "invalid_or_blank_rows": 0,
     "header_detected": true,
     "appid_column_index": 0,
